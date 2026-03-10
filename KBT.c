@@ -1,4 +1,4 @@
-// 12S25003-Afrian Josse Siadari
+//12S25003-Afrian Josse Siadari
 
 #include <stdio.h>
 #include <string.h>
